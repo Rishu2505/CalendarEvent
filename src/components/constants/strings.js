@@ -1,3 +1,6 @@
+//Strings.js
+// React Native Bottom Navigation - Example using React Navigation V5 with Calender //
+// https://github.com/Rishu2505/CalendarEvent.git //
 let Strings = {
   NavigationKeys: {
     Calendar: "Calendar",

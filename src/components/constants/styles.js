@@ -1,3 +1,6 @@
+//Styles.js
+// React Native Bottom Navigation - Example using React Navigation V5 with Calender //
+// https://github.com/Rishu2505/CalendarEvent.git //
 import { StyleSheet } from "react-native"
 import colors from './colors'
 import { heightPercentageToDP as hp, widthPercentageToDP as wp } from 'react-native-responsive-screen';

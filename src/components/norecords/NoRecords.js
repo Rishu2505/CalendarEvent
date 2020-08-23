@@ -1,4 +1,6 @@
 //NoRecords.js
+// React Native Bottom Navigation - Example using React Navigation V5 with Calender //
+// https://github.com/Rishu2505/CalendarEvent.git //
 import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { Colors, Fontsize, Strings } from '../constants';

@@ -1,5 +1,6 @@
-// React Native Bottom Navigation - Example using React Navigation V5 //
-// https://aboutreact.com/react-native-bottom-navigation //
+//EventItem.js
+// React Native Bottom Navigation - Example using React Navigation V5 with Calender //
+// https://github.com/Rishu2505/CalendarEvent.git //
 import React, { Component } from 'react';
 import { StyleSheet, } from 'react-native';
 import { ListItem } from 'react-native-elements'

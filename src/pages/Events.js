@@ -1,6 +1,6 @@
-// Events.js
-// React Native Bottom Navigation - Example using React Navigation V5 //
-// https://aboutreact.com/react-native-bottom-navigation //
+//Event.js
+// React Native Bottom Navigation - Example using React Navigation V5 with Calender //
+// https://github.com/Rishu2505/CalendarEvent.git //
 
 import React, { Component } from "react"
 import { SafeAreaView, View, FlatList } from "react-native";
@@ -8,7 +8,7 @@ import { connect } from 'react-redux';
 import { Strings, EventItem, NoRecords } from '../components';
 import { heightPercentageToDP as hp, widthPercentageToDP as wp } from 'react-native-responsive-screen';
 import { Header, Icon } from 'react-native-elements';
-class Recipe extends Component {
+class Events extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -76,4 +76,4 @@ function mapStateToProps(state) {
   }
 }
 
-export default connect(mapStateToProps)(Recipe)
+export default connect(mapStateToProps)(Events)

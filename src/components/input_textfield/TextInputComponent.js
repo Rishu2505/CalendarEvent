@@ -1,4 +1,6 @@
-// TextInputComponent Component.js
+// TextInputComponent.js
+// React Native Bottom Navigation - Example using React Navigation V5 with Calender //
+// https://github.com/Rishu2505/CalendarEvent.git //
 import React from 'react';
 import { Text, View, StyleSheet, TextInput, } from 'react-native';
 import { GlobalStyle, Colors, Fontsize } from '../constants';

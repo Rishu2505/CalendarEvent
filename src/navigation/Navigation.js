@@ -1,5 +1,6 @@
-// React Native Bottom Navigation - Example using React Navigation V5 //
-// https://aboutreact.com/react-native-bottom-navigation //
+//Navigation.js
+// React Native Bottom Navigation - Example using React Navigation V5 with Calender //
+// https://github.com/Rishu2505/CalendarEvent.git //
 import 'react-native-gesture-handler';
 import * as React from 'react';
 import AntDesignIcons from 'react-native-vector-icons/AntDesign';
